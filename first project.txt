@@ -1,0 +1,19 @@
+git init
+
+git config --global user.name "jasmitha16"
+
+git config --global user.email "2400031757@kluniversity.in"
+
+git add.
+
+git commit -m "commited"
+
+git branch -M main
+
+git remote add origin "https://github.com/jasmitha16/FSDPROJECT1-10DEC.git"
+
+git push -u orgin main
+
+git checkout 
+
+git log
